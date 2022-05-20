@@ -1,3 +1,0 @@
-/home/alina/Рабочий стол/auto addition/cmake-build-debug/CMakeFiles/auto-addition.dir
-/home/alina/Рабочий стол/auto addition/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/alina/Рабочий стол/auto addition/cmake-build-debug/CMakeFiles/rebuild_cache.dir
